@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Windows Locale Fix"
+  short_description: "Fix Codex language and UTF-8 on Windows"
+  default_prompt: "Use $codex-windows-locale-fix to diagnose and repair Codex language or UTF-8 terminal issues on Windows."
+policy:
+  allow_implicit_invocation: true
